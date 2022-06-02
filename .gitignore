@@ -1,0 +1,9 @@
+.vscode
+obj
+main
+data
+out
+norm
+std
+*.pgf
+*.log
